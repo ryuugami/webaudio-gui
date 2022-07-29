@@ -1,0 +1,14 @@
+.canvas {
+    background-color: black;
+    width: var(--drop-width);
+    height: var(--drop-height);
+
+}
+
+.drop-zone {
+    position: absolute;
+    background-color: rgba(255, 20, 50, 0);
+    width: var(--drop-width);
+    height: var(--drop-height);
+
+}
